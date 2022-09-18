@@ -1,0 +1,12 @@
+/* Write your code here. */
+.list-card {
+  list-style: none;
+  padding: 20px;
+  background-color: #ffffff33;
+  margin: 20px;
+  border-radius: 20px;
+}
+.list-button {
+  background-color: transparent;
+  border: 0px solid;
+}

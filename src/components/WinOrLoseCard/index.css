@@ -1,0 +1,31 @@
+/* Write your code here. */
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-self: center;
+  background-color: #ffffff33;
+  padding: 30px;
+  margin-top: 80px;
+  margin-left: 280px;
+  margin-right: 280px;
+  border-radius: 30px;
+}
+.score {
+  align-self: center;
+  color: #ffffff;
+}
+.heading {
+  font-size: 46px;
+}
+.again-button {
+  background-color: #ffce27;
+  border: 0px solid;
+  border-radius: 8px;
+  padding: 10px;
+  font-weight: bold;
+}
+.font {
+  font-size: 30px;
+  color: #6a59ff;
+  font-weight: bold;
+}

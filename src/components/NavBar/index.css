@@ -1,0 +1,21 @@
+/* Write your code here. */
+.nav-bar-bg {
+  background-color: #ffffff33;
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+}
+.score-card {
+  display: flex;
+  padding-left: 20px;
+}
+.score {
+  margin: 20px;
+  font-size: 20px;
+}
+.image {
+  width: 80px;
+}
+.invis {
+  display: none;
+}

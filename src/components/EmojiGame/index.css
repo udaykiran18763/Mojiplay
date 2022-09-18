@@ -1,0 +1,21 @@
+/* Write your code here. */
+.bg-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.emoji-container {
+  align-self: center;
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+}
+.list-container {
+  margin-top: 50px;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+}
